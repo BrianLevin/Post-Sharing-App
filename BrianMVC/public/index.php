@@ -1,1 +1,4 @@
-<?php echo "test"; ?>
+<?php require_once '../app/bootstrap.php'; ?>
+
+
+<!-- <?php echo "test"; ?> -->
